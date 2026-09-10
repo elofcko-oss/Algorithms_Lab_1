@@ -124,7 +124,7 @@ void zadanie5(void) {
 }
 
 int main(void) {
-    // Включаем UTF-8 для ввода и вывода в консоли Windows
+    
     SetConsoleCP(65001);
     SetConsoleOutputCP(65001);
 
